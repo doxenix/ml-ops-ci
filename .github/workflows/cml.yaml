@@ -22,4 +22,4 @@ jobs:
           
           cml-publish model_reuslts.png --md >> report.md
           
-          cml-send-comment report.md
+          cml-send-comment report.md 
